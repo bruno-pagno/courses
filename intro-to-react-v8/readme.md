@@ -1,0 +1,1 @@
+This code was made following the course Complete Intro to React V8 by Brian Holt at FrontendMasters platform

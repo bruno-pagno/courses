@@ -1,0 +1,1 @@
+This repo contains my exercises responses from the course [Shell scripting: Discover how to automate command line tasks](https://www.udemy.com/course/shell-scripting-linux/?kw=shell+scripting%3A+Discover&src=sac) at Udemy.
